@@ -1,1 +1,35 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+}
 
+form {
+display: flex;
+flex-direction: column;
+justify-content: center;
+background-color: rgb(67, 85, 124);
+width: 500px;
+padding: 60px;
+border-radius: 10px;
+}
+
+label {
+    font-size: x-large;
+    color: white;
+}
+
+input {
+   height: 50px;
+   border-radius: 10px;
+}
+
+button {
+    height: 50px;
+    background-color: rgb(90, 90, 143);
+    border: 2px solid white;
+    font-size: larger;
+    font-weight: bold;
+    box-shadow: 4px 4px 10px 4px;
+}

@@ -1,13 +1,12 @@
-import { useState } from 'react'
-
 import './App.css'
+import AplicacaoChamados from './documents/chamado'
 
 function App() {
 
   return (
     <>
       <div>
-
+<AplicacaoChamados/>
 
        </div>
     </>
